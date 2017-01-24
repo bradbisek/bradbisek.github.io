@@ -2,11 +2,11 @@ html, body {
   margin: 20;
 }
 
-body {
+/*body {
   font-family: 'Nunito Sans', sans-serif;
   font-size: 26px;
   background-color:#E3CE8F;
-}
+}*/
 
 .name {
     padding-right: 30px;
