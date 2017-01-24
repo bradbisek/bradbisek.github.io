@@ -10,6 +10,10 @@
 #name-contact {
   text-align:right;
 }
+
+h1 {
+    text-shadow: 2px 2px #74A1B0;
+}
 div.thumbnail {
   position: absolute;
     left: 250px;
