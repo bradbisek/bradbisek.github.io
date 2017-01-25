@@ -50,18 +50,14 @@ div.thumbnail {
   font-size:32px;
 }
 
-#jobs h4 h5 {
+h4 h5 {
   line-height:10px
-    padding:0;
+  padding:0;
   margin:0;
 }
 
-#jobs h5 {
-  color:red;
-}
-
-#school h5 {
-  color:blue;
+h5 {
+  color:#4d4d33;
 }
 
 
