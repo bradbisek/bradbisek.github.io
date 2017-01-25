@@ -13,7 +13,7 @@
 }
 
 h1 {
-    text-shadow: 2px 2px #74A1B0;
+    text-shadow: 2px 2px #392613;
 }
 div.thumbnail {
   position: absolute;
@@ -48,12 +48,6 @@ div.thumbnail {
   text-align:center;
   font-family:Garamond;
   font-size:32px;
-}
-
-h4 h5 {
-  line-height:10px
-  padding:0;
-  margin:0;
 }
 
 h5 {
